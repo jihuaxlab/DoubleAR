@@ -1,6 +1,6 @@
-# Intelligent sensory of oil quality by adaptive residual attention networks and Raman spectroscopy
+# Intelligent sensory of lard quality by adaptive residual attention networks and Raman spectroscopy
 
-Code and data of our paper [Intelligent sensory of oil quality by adaptive residual attention networks and Raman spectroscopy](https://doi.org/10.1016/j.microc.2025.112680).
+Code and data of our paper [Intelligent sensory of lard quality by adaptive residual attention networks and Raman spectroscopy](https://doi.org/10.1016/j.microc.2025.112680).
 
 ## Requirements
 
