@@ -1,6 +1,6 @@
 # Intelligent sensory of oil quality by adaptive residual attention networks and Raman spectroscopy
 
-Code and data of our paper Intelligent sensory of oil quality by adaptive residual attention networks and Raman spectroscopy.
+Code and data of our paper [Intelligent sensory of oil quality by adaptive residual attention networks and Raman spectroscopy](https://doi.org/10.1016/j.microc.2025.112680).
 
 ## Requirements
 
@@ -51,4 +51,17 @@ parser.add_argument('--d', type=int, default=700,
 
 args = parser.parse_args()
 args.cuda = args.use_cuda and torch.cuda.is_available()
+```
+
+## Citation
+
+```
+@article{shi2025doublear,
+    title = {Intelligent sensory of lard quality by adaptive residual attention networks and Raman spectroscopy},
+    journal = {Microchem. J.},
+    volume = {209},
+    pages = {112680},
+    year = {2025},
+    author = {Zhuangwei Shi and Yunhao Su and Jianchen Zi and Shibiao Yang and Dongsheng Li and Yongkun Luo and Chenhui Wang and Hai Bi},
+}
 ```
